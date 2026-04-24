@@ -1,0 +1,9 @@
+{
+  "name": "pet-care-assistant",
+  "private": true,
+  "scripts": {
+    "start:all": "./scripts/start-all.sh render",
+    "start:all:render": "./scripts/start-all.sh render",
+    "start:all:local": "./scripts/start-all.sh local"
+  }
+}

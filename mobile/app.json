@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pet Care Assistant",
+    "slug": "pet-care-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
